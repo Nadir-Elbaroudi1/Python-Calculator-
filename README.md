@@ -1,6 +1,6 @@
 # Python-Calculator-
 
-Here is mathematical calculator in help you out in your journey :)
+Here is a mathematical calculator to help you out in your journey :)
 
 Please use this link to use it:
 
